@@ -19,18 +19,18 @@ Instead of traditional to-do files, I decided to bring in some fun by using **Ma
 ## 📁 Project Structure
 
 avengers-project/
-├── .git/                ← Sacred Timeline Repository
-├── README.md            ← You are here (Project HQ)
-├── main.md              ← Sacred Timeline Description
-└── heroes/              ← Earth's Mightiest Heroes
-    ├── ironman/
-    │   └── ironman.md   ← Tony Stark's Arc Reactor Journey
-    ├── thor/
-    │   └── thor.md      ← God of Thunder's Asgardian Tales
-    ├── hulk/
-    │   └── hulk.md      ← Bruce Banner's Gamma Radiation Story
-    └── cap/
-        └── cap.md       ← Captain America's Shield Chronicles
+├── .git/                ← Sacred Timeline Repository <br>
+├── README.md            ← You are here (Project HQ) <br>
+├── main.md              ← Sacred Timeline Description <br>
+└── heroes/              ← Earth's Mightiest Heroes <br>
+    ├── ironman/ <br>
+    │   └── ironman.md   ← Tony Stark's Arc Reactor Journey <br>
+    ├── thor/ <br>
+    │   └── thor.md      ← God of Thunder's Asgardian Tales <br>
+    ├── hulk/ <br>
+    │   └── hulk.md      ← Bruce Banner's Gamma Radiation Story <br>
+    └── cap/ <br>
+        └── cap.md       ← Captain America's Shield Chronicles <br>
 
 
 Each `.md` file contains a hero's profile, origin, and powers, acting as example content to commit and track changes.
